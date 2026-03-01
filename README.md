@@ -1,11 +1,11 @@
-Welfare Shield
+*Welfare Shield*
 A Public Fund Monitoring Dashboard Prototype
 
 Welfare Shield is a frontend prototype designed to demonstrate how data visualization and anomaly indicators can be used to monitor potential fund leakage in public welfare systems.
 
 This version of the project focuses on the user interface and conceptual workflow. All datasets used in the application are simulated for demonstration purposes. The backend services and machine learning models described are part of the proposed architecture and are not implemented in this version.
 
-Project Objective
+*Project Objective*
 
 The objective of Welfare Shield is to present a clear and actionable visual interface that enables officials to:
 
@@ -19,7 +19,7 @@ Prioritize potential investigation areas
 
 The project demonstrates how complex welfare disbursement data could be translated into intuitive visual insights.
 
-Current Scope
+*Current Scope*
 
 This repository contains:
 
@@ -33,7 +33,7 @@ Static risk scoring indicators
 
 The backend, database integration, and machine learning models are conceptual and not executed in this implementation.
 
-Features
+*Features*
 Risk Heatmap Visualization
 
 Displays region-level risk intensity using predefined simulated data.
@@ -64,7 +64,7 @@ Transaction timeline examples
 
 All outputs are generated using mock data to simulate real-world detection scenarios.
 
-Technical Stack
+*Technical Stack*
 
 Frontend
 
@@ -78,7 +78,7 @@ Simulated datasets (JSON / static data structures)
 
 No backend services or APIs are connected in this version.
 
-Proposed Architecture (Conceptual)
+*Proposed Architecture*
 
 Future versions may include:
 
@@ -100,7 +100,7 @@ PostgreSQL with PostGIS
 
 These components are part of the system vision but are not implemented in this prototype.
 
-Future Work
+#*Future Work*#
 
 Implement backend API services
 
@@ -112,6 +112,7 @@ Enable real-time risk scoring
 
 Add authentication and role-based access
 
-Purpose
+*Purpose*
+
 
 Welfare Shield serves as a proof-of-concept interface demonstrating how welfare fund monitoring systems could be designed to improve transparency, audit efficiency, and governance visibility.

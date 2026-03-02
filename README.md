@@ -118,7 +118,6 @@ Add authentication and role-based access
 Welfare Shield serves as a proof-of-concept interface demonstrating how welfare fund monitoring systems could be designed to improve transparency, audit efficiency, and governance visibility.
 
 *#login credentials#*
- { email: 'admin@gov.in', password: 'password123', role: 'admin', name: 'Admin User' },
-  { email: 'auditor@gov.in', password: 'password123', role: 'auditor', name: 'Auditor User' },
-  { email: 'officer@gov.in', password: 'password123', role: 'officer', name: 'Officer User' },
-
+  email: 'admin@gov.in', password: 'password123'
+  email: 'auditor@gov.in', password: 'password123'
+   email: 'officer@gov.in', password: 'password123'
